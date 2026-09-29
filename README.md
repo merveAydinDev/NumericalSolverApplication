@@ -31,14 +31,14 @@ Uygulama, $\frac{dy}{dx} = f(x, y)$ formundaki birinci mertebeden adi diferansiy
 
 ## 🖥️ Ekran Görüntüleri
 **Ana Arayüz ve Sayısal Hesaplama**
-![uygulama_ana_arayüzü](images\giriş_ekrani.png)
-![uygualama_yöntem_seçenekleri](images\yöntem_seçenekleri.png)
+![uygulama_ana_arayüzü](images/giris_ekrani.png)
+![uygualama_yöntem_seçenekleri](images/yöntem_seçenekleri.png)
 
 **Çözüm Eğrileri ve Mutlak Hata Grafiği**
-![grafik_ve_hata_analizi](images\grafik_hesaplamalar.png)
+![grafik_ve_hata_analizi](images/grafik_hesaplamalar.png)
 
 **Excel Dışa Aktarım Tablosu**
-![excel_sonuçları](images\excelsablon.png)
+![excel_sonuçları](images/excelsablon.png)
 
 ---
 
